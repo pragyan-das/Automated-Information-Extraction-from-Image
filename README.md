@@ -1,4 +1,4 @@
-# Automated-PDF-Extraction
+# Automated-Information-Extraction-from-Image
 This code automatically extracts the information from an image with the help of a configuration file.
 
 How to run the code:
