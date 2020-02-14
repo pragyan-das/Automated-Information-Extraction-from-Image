@@ -241,5 +241,6 @@ def extract_fields_and_values(ip_path,f_names,config_file_path,unique_id = None)
 
     return (tbf_json)
 
-extract_fields_and_values('C:\\Users\\pragyan.das\\Desktop\\Automatic Information Extraction from Image',"['sample_form.png']","C:\\Users\\pragyan.das\\Desktop\\Automatic Information Extraction from Image\\config_sample.json")
+#call the function extract_fields_and_values("the image file path","['the image file name with extension']","the config file path")
+extract_fields_and_values('C:\\Users\\Desktop\\Automatic Information Extraction from Image',"['sample_form.png']","C:\\Users\\Desktop\\Automatic Information Extraction from Image\\config_sample.json")
 
