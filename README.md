@@ -1,5 +1,5 @@
 # Automated-Information-Extraction-from-Image
-This code automatically extracts the information from an image with the help of a configuration file.
+This code automatically extracts the information from an image with the help of a configuration file. It uses tesseract OCR to first read the image and then performs few operations to search for required information.
 
 How to run the code:
 
