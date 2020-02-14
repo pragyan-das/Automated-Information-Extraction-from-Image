@@ -1,0 +1,66 @@
+{
+  "FileType": "Sample",
+  "pickle_filepath": "samplePickle",
+  "Single": "Yes",
+  "KeyValue": [       {
+                                "KeyName": "Full name and address of the declarant",
+                                "MainKey": "",
+                                "ValueType": "isString",
+                                "Always Present": "Yes",
+                                "To_direction": "Right",
+                                "MaxLine": "5",
+                                "Width_multiplier": "0.40",
+                                "Height_multiplier": "0.017",
+                                "PageNo": "1"
+                       },
+                       {
+                                "KeyName": "Account type",
+                                "MainKey": "",
+                                "Oriental": "270",
+                                "ValueType": "isString",
+                                "Always Present": "Yes",
+                                "Regular Exp": "String Expression",
+                                "Validated CSV File": "String Val",
+                                "To_direction": "Right",
+                                "MaxLine": "1",
+                                "Width_multiplier": "0.20",
+                                "Height_multiplier": "0.017",
+                                "PageNo": "1"
+                       },
+                       {
+                                "KeyName": "Number",
+                                "MainKey": "",
+                                "ValueType": "isString",
+                                "Always Present": "Yes",
+                                "Regular Exp": "String Expression",
+                                "To_direction": "Right",
+                                "MaxLine": "1",
+                                "Width_multiplier": "0.30",
+                                "Height_multiplier": "0.017",
+                                "PageNo": "1"
+                       },
+                       {
+                                "KeyName": "amount of the transaction rs.",
+                                "MainKey": "",
+                                "ValueType": "isString",
+                                "Always Present": "Yes",
+                                "Regular Exp": "String Expression",
+                                "To_direction": "Right",
+                                "MaxLine": "1",
+                                "Width_multiplier": "0.40",
+                                "Height_multiplier": "0.017",
+                                "PageNo": "1"
+                       },
+                       {
+                                "KeyName": "Signature of the declarant",
+                                "MainKey": "",
+                                "ValueType": "isString",
+                                "Always Present": "Yes",
+                                "To_direction": "Up",
+                                "MaxLine": "1",
+                                "Width_multiplier": "0.30",
+                                "Height_multiplier": "0.017",
+                                "PageNo": "1"
+                       }
+  ]
+  }
